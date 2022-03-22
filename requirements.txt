@@ -3,5 +3,5 @@ opencv-contrib-python
 Pillow
 streamlit
 tensorflow
-pands
+pandas
 numpy
